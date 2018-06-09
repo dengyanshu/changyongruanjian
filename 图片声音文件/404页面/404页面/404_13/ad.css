@@ -1,0 +1,87 @@
+.table {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.white {
+	COLOR: #ffffff
+}
+.gray {
+	COLOR: #999999
+}
+.blue1 {
+	COLOR: #3177b3
+}
+.green {
+	COLOR: #6dcb12
+}
+.white {
+	COLOR: #ffffff
+}
+.cfont {
+	COLOR: #666666
+}
+.bfont {
+	FONT-WEIGHT: bold; COLOR: #0066cc
+}
+.green1 {
+	FONT-WEIGHT: bold; COLOR: #006600
+}
+TD {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, "ËÎÌו", Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, ËÎÌו, Arial, Helvetica, sans-serif
+}
+A:active {
+	FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: underline
+}
+A:link {
+	FONT-SIZE: 8pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 8pt; COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 8pt; COLOR: #ff3300; TEXT-DECORATION: underline
+}
+BODY {
+	BACKGROUND-IMAGE: url(images/bg001.gif); MARGIN: 0px
+}
+A.red:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; COLOR: #ff3300; TEXT-DECORATION: underline
+}
+A.red:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; COLOR: #666666; TEXT-DECORATION: none
+}
+A.red:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; COLOR: #666666; TEXT-DECORATION: none
+}
+A.red:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10.5pt; COLOR: #ff3300; TEXT-DECORATION: underline
+}
+.dfont {
+	FONT-SIZE: 10.5pt; COLOR: #333333; LINE-HEIGHT: 14.5pt
+}
+.efont {
+	FONT-WEIGHT: bold; FONT-SIZE: 10.5pt; COLOR: #ff6600
+}
+.ffont {
+	FONT-WEIGHT: bold; COLOR: #ff6600
+}
+.footer {
+	COLOR: #ff3300
+}
+.picb {
+	BORDER-RIGHT: #f2f2f2 1px solid; BORDER-TOP: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid
+}
+A.picb:link {
+	BORDER-RIGHT: #f2f2f2 1px solid; BORDER-TOP: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid
+}
+A.picb:visited {
+	BORDER-RIGHT: #f2f2f2 1px solid; BORDER-TOP: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid
+}
+A.picb:active {
+	BORDER-RIGHT: #f2f2f2 1px solid; BORDER-TOP: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid
+}
+A.picb:hover {
+	BORDER-RIGHT: #ffcc00 1px solid; BORDER-TOP: #ffcc00 1px solid; BORDER-LEFT: #ffcc00 1px solid; BORDER-BOTTOM: #ffcc00 1px solid
+}
